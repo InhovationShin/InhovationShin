@@ -31,7 +31,7 @@
 
 <h2 align="center">Contact</h2>
   <p>
-    <a href="matilto:inhovationshin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail">
+    <a href="mailto:inhovationshin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail">
     <a href="https://www.linkedin.com/in/inhovationshin" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
   </p>
     
