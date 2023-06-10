@@ -38,5 +38,7 @@
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InhovationShin&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InhovationShin&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInhovationShin&count_bg=%2337B87D&title_bg=%23354EA2&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
